@@ -9,11 +9,10 @@
             "username": "Pastorino.Elio",
             "password": "faqsit-pibca4-hYzseh!",
             "baseurl": "://berggruen-gymnasium.webuntis.com/",
-            "friendlyName": "Pastorino.Elio",
+            "friendlyName": "Untis Calendar for Apple",
             "language": "en",
             "cancelledDisplay": "mark",
             "showHolidays": true,
-            "accessToken": "untisisno"
         }
     ]
 }
