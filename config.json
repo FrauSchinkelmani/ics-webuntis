@@ -1,0 +1,18 @@
+{
+    "daysBefore": 7,
+    "daysAfter": 14,
+    "cacheDuration": 300,
+    "timezone": "Europe/Berlin",
+    "users": [
+        {
+            "school": "Heinz-Berggruen-Schule",
+            "username": "Pastorino.Elio",
+            "password": "faqsit-pibca4-hYzseh!",
+            "baseurl": "://berggruen-gymnasium.webuntis.com/",
+            "friendlyName": "Untis Calendar for Apple",
+            "language": "en",
+            "cancelledDisplay": "mark",
+            "showHolidays": true,
+        }
+    ]
+}
