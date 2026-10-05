@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "src/index.js": {
-      "includeFiles": "config.json"
-    }
-  }
-}
